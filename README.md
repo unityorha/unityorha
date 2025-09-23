@@ -1,6 +1,6 @@
 # 👋 Hello World !
 
-Bienvenue sur mon GitHub.    
+Bienvenue sur mon GitHub !!      
 **⚠️ Je suis nouveau sur la plateforme, et débutant en informatique. ⚠️**
 
 💻 Étudiant en **informatique**, passionné par le code, la cybersécurité les projets créatifs.  
