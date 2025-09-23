@@ -3,7 +3,7 @@
 Bienvenue sur mon profil GitHub. 
 
 💻 Étudiant en **informatique**, passionné par le code, la cybersécurité les projets créatifs.  
-🎯 Objectif actuel : **BTS SIO** → spécialisation en **cybersécurité** → licence/master pour devenir expert en sécurité informatique.
+🎯 Objectif actuel : **BTS SIO** → spécialisation en **cybersécurité** → licence/master pour devenir expert en sécurité informatique.  
 📈 Actuellement en train de suivre une formation **Cisco Networking Academy**, afin de décrocher une certification.
 
 ---
