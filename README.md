@@ -3,16 +3,17 @@
 Bienvenue sur mon profil GitHub. 
 
 💻 Étudiant en **informatique**, passionné par le code, la cybersécurité les projets créatifs.  
-🎯 Objectif actuel : **BTS SIO** → spécialisation en **cyberdéfense** → licence/master pour devenir expert en sécurité.
+🎯 Objectif actuel : **BTS SIO** → spécialisation en **cybersécurité** → licence/master pour devenir expert en sécurité informatique.
+📈 Actuellement en train de suivre une formation **Cisco Networking Academy**, afin de décrocher une certification.
 
 ---
 
 ## 🚀 À propos de moi
 - 🎓 Étudiant motivé, toujours en quête de nouvelles connaissances
-- 🛠️ J’adore expérimenter avec HTML, CSS, JS et automatisations
-- 🕵️ Intéressé par **cybersécurité**, **développement web**, et **scripts qui font gagner du temps**
-- 🎬 Fan de films à plot twist, OST au piano et univers narratifs profonds
-- 🕹️ Gamer dans l'âme (Valorant, LoL, Pokémon...)
+- 🛠️ J’adore expérimenter avec HTML, CSS, JS
+- 🕵️ Intéressé par **cybersécurité**, **développement web**, et **pentest**
+- 🎬 Très grand fan de films thriller
+- 🕹️ Gamer depuis la tendre enfance
 
 ---
 
