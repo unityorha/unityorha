@@ -1,7 +1,8 @@
-# 👋 Hey, moi c'est Wael !
+# 👋 Hello World !
 
-Bienvenue sur mon profil GitHub.  
-💻 Étudiant en **informatique & cybersécurité**, passionné par le code, l'optimisation et les projets créatifs.  
+Bienvenue sur mon profil GitHub. 
+
+💻 Étudiant en **informatique**, passionné par le code, la cybersécurité les projets créatifs.  
 🎯 Objectif actuel : **BTS SIO** → spécialisation en **cyberdéfense** → licence/master pour devenir expert en sécurité.
 
 ---
