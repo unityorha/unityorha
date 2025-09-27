@@ -38,7 +38,6 @@ Bienvenue sur mon GitHub !!
 ---
 
 ## 📫 Me contacter
-- 💌 **Mail** : [ton.mail@exemple.com](mailto:ton.mail@exemple.com)  
 - 🔗 **LinkedIn** : [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
 
 ---
