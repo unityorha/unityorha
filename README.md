@@ -38,7 +38,7 @@ Bienvenue sur mon GitHub !!
 ---
 
 ## 📫 Me contacter
-- 🔗 **LinkedIn** : [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
+- 🔗 **LinkedIn** : [Youssef Bouariche](https://www.linkedin.com/in/youssef-bouariche/)
 
 ---
 
