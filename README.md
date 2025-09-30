@@ -37,8 +37,12 @@ Bienvenue sur mon GitHub !!
 
 ---
 
-## 📫 Me contacter
-- 🔗 **LinkedIn** : [Youssef Bouariche](https://www.linkedin.com/in/youssef-bouariche/)
+## 🌐 Réseaux sociaux
+<div align="center">
+  <a href="https://www.linkedin.com/in/youssef-bouariche/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
