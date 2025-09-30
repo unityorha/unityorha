@@ -6,10 +6,8 @@
 <br>
 </div>
 
-<div align="center>
-# 👋 ! Hello World ! 👋
-  </div>
-  
+# 👋 Hello World !
+
 Bienvenue sur mon GitHub !!        
 **⚠️ Je suis nouveau sur la plateforme, et débutant en informatique. ⚠️**    
 
