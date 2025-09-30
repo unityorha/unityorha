@@ -1,11 +1,7 @@
 # 👋 Hello World !
 
-Bienvenue sur mon GitHub !!      
+Bienvenue sur mon GitHub !!        
 **⚠️ Je suis nouveau sur la plateforme, et débutant en informatique. ⚠️**    
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 💻 Étudiant en **informatique**, passionné par le code, la cybersécurité les projets créatifs.  
 🎯 Objectif actuel : **BTS SIO** → spécialisation en **cybersécurité** → licence/master pour devenir expert en sécurité informatique.  
@@ -45,5 +41,9 @@ Bienvenue sur mon GitHub !!
 - 🔗 **LinkedIn** : [Youssef Bouariche](https://www.linkedin.com/in/youssef-bouariche/)
 
 ---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 ⭐ **N'hésite pas à explorer mes dépôts et à laisser une étoile sur ce qui te plaît !**
