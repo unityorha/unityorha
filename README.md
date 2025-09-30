@@ -45,10 +45,14 @@ Bienvenue sur mon GitHub !!
 
 ---
 
-## 🌐 Réseaux sociaux
+## 🌐 Réseaux sociaux & Portfolio
+
 <div align="center">
   <a href="https://www.linkedin.com/in/youssef-bouariche/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://figma.com/proto/xvm1bNd2q0cZPo9gubnjXY/Portfolio-V1?node-id=11-19&t=E3DPIe8kLTgkDHWR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Figma-purple?logo=figma&style=for-the-badge" alt="Portfolio Figma"/>
   </a>
 </div>
 
