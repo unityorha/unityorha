@@ -33,9 +33,8 @@ Bienvenue sur mon GitHub !!
 
 ## 🧰 Stack & Outils
 <div align="center">
-  
-
-
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 ---
