@@ -1,12 +1,15 @@
 <!-- Page de couverture / Cover Page -->
 <div align="center">
 
-# 🟣✨ unityorha ✨🟣
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F1cHY4eHhjNXh1YTdpNXFsZWFuYzlvc20yejkxYmFlcDJqMTMwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iB5i8ChtOAHba/giphy.gif" alt="unityorha banner" width="700"/>
 
-<br>
 </div>
 
-# 👋 Hello World !
+<div align="center">
+  
+# Hello World !
+
+
 
 Bienvenue sur mon GitHub !!        
 **⚠️ Je suis nouveau sur la plateforme, et débutant en informatique. ⚠️**    
@@ -14,6 +17,8 @@ Bienvenue sur mon GitHub !!
 💻 Étudiant en **informatique**, passionné par le code, la cybersécurité les projets créatifs.  
 🎯 Objectif actuel : **BTS SIO** → spécialisation en **cybersécurité** → licence/master pour devenir expert en sécurité informatique.  
 📈 Actuellement en train de suivre une formation [**Cisco Networking Academy**](https://www.netacad.com/), afin de décrocher une certification.
+
+</div>
 
 ---
 
