@@ -3,7 +3,6 @@
 
 # 🟣✨ unityorha ✨🟣
 
-![Unityorha Banner](https://img.shields.io/badge/unityorha-purple?style=for-the-badge&logo=github)
 <br>
 </div>
 
