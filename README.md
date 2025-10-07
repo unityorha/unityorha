@@ -12,7 +12,6 @@
 
 
 Bienvenue sur mon GitHub !!        
-**⚠️ Je suis nouveau sur la plateforme, et débutant en informatique. ⚠️**    
 
 💻 Étudiant en **informatique**, passionné par le code, la cybersécurité les projets créatifs.  
 🎯 Objectif actuel : **BTS SIO** → spécialisation en **cybersécurité** → licence/master pour devenir expert en sécurité informatique.  
